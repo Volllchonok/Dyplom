@@ -311,7 +311,7 @@ plot_sensor_map(sensor_id=0)
 ## 🔗 Посилання на GitHub
 
 ```text
-[додати посилання на GitHub-репозиторій]
+(https://github.com/Volllchonok/Dyplom.git)
 ```
 
 ---
